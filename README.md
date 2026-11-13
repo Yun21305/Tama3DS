@@ -4,12 +4,21 @@ Send Tamagotchi P's download items from an old 3DS over infrared (IrDA OBEX),
 the same way IrDA phones / USB IrDA dongles do.
 (maybe it can be used for iD, iD L too)
 
+
+
 ![Tama3DS](Tama3DS.gif)
 Made by @Yun21305, 2026.
 
+
+
+
 > **Non-commercial**: This project may not be resold or used in any form of commercial activity.
 
+
+
+
 ## Installation
+
 
 **CIA (recommended)**
 
@@ -19,6 +28,8 @@ Download `Tama3DS.cia` from the [Releases](../../releases) page and install it w
 
 Copy `Tama3DS.3dsx` to `sdmc:/3ds/` and launch it from the Homebrew Launcher.
 
+
+
 ## Usage
 
 1. Put item files (`.jpg`) in `sdmc:/tama/`. Sub-folders work as categories.
@@ -27,6 +38,8 @@ Copy `Tama3DS.3dsx` to `sdmc:/3ds/` and launch it from the Homebrew Launcher.
 
 Controls: Up/Down select, Left/Right page, A open/send, B back,
 SELECT about & settings (debug log on/off), START exit (hold START to abort a transfer).
+
+
 
 ## Build
 
@@ -59,7 +72,11 @@ Requires devkitPro with `3ds-dev` (libctru, citro2d, citro3d) and
 
 The PspIrDA / BlauLogic code keeps its original license (see `COPYRIGHT`).
 
+
+
 ---
+
+
 
 ## 3D HOME Menu Banner — Help Wanted
 
