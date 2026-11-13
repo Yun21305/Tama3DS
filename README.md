@@ -4,6 +4,7 @@ Send Tamagotchi P's download items from an old 3DS over infrared (IrDA OBEX),
 the same way IrDA phones / USB IrDA dongles do.
 (maybe it can be used for iD, iD L too)
 
+![Tama3DS](Tama3DS.gif)
 Made by @Yun21305, 2026.
 
 > **Non-commercial**: This project may not be resold or used in any form of commercial activity.
