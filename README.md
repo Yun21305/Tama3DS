@@ -26,7 +26,7 @@ Download `Tama3DS.cia` from the [Releases](../../releases) page and install it w
 
 **3DSX (Homebrew Launcher)**
 
-Copy `Tama3DS.3dsx` to `sdmc:/3ds/` and launch it from the Homebrew Launcher.
+Download `Tama3DS.3dsx` from the [Releases](../../releases) page, then put it into `sdmc:/3ds/`, and launch it from the Homebrew Launcher.
 
 
 
