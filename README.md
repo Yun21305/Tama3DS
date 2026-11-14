@@ -32,13 +32,13 @@ Copy `Tama3DS.3dsx` to `sdmc:/3ds/` and launch it from the Homebrew Launcher.
 
 ## Usage
 
-1. Put item files (`.jpg`) in `sdmc:/tama/`. Sub-folders work as categories.
+1. Put item files (.jpg) in sdmc:/tama/. Create the tama folder in the root of your SD card if it doesn’t already exist. Sub-folders are supported and can be created freely to organize items into categories. 
 2. On the P's: Download → wait screen. Point the IR windows at each other.
 3. Select a file and press A to send.
 
 Controls: Up/Down select, Left/Right page, A open/send, B back,
 SELECT about & settings (debug log on/off), START exit (hold START to abort a transfer).
-
+ .txt files can also be viewed.
 
 
 ## Build
