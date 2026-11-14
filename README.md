@@ -37,7 +37,7 @@ Copy `Tama3DS.3dsx` to `sdmc:/3ds/` and launch it from the Homebrew Launcher.
 3. Select a file and press A to send.
 
 Controls: Up/Down select, Left/Right page, A open/send, B back,
-SELECT about & settings (debug log on/off), START exit (hold START to abort a transfer).
+SELECT about & settings (debug log on/off), START exit (hold START to abort a transfer).  
  .txt files can also be viewed.
 
 
